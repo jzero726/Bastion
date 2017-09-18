@@ -1,7 +1,7 @@
 {
-  "name": "bastion",
+  "name": "MysticBot",
   "version": "4.2.2",
-  "description": "Bastion: A Discord Bot that can do Administration, Moderation, Searches, can play Music, Games, has User Levels, Virtual Currencies, a good sense of Humor and can even talk with you!",
+  "description": "MysticBot: A Discord Bot that can do Administration, Moderation, Searches, can play Music, Games, has User Levels, Virtual Currencies, a good sense of Humor. And can even talk with you! Original Bot is Bastion!",
   "url": "https://BastionBot.org/",
   "main": "bastion.js",
   "scripts": {
